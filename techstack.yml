@@ -1,0 +1,32 @@
+repo_name: Spaun12/awesome-for-beginners
+report_id: 37a4207f7683ef47739a8517b51fce22
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-03T19:22:28+00:00'
+requested_by: Correia-jpv
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Spaun12/awesome-for-beginners
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Spaun12/awesome-for-beginners/blob/main/.github/workflows/build.yml
+  detection_source: ".github/workflows/build.yml"
+  last_updated_by: Shmavon Gazanchyan
+  last_updated_on: 2022-08-29 20:18:20.000000000 Z
